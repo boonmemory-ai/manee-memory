@@ -1,0 +1,40 @@
+.gemini/
+.config/
+.docker/
+.ollama/
+.vscode*/
+AppData/
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+NTUSER.DAT*
+ntuser.dat*
+ntuser.ini
+Documents/My Music/
+Documents/My Pictures/
+Documents/My Videos/
+Project/
+Desktop/
+Downloads/
+Dropbox/
+OneDrive*/
+Music/
+Videos/
+Pictures/
+Saved Games/
+Searches/
+Contacts/
+Links/
+Favorites/
+html/
+video-downloader/
+__pycache__/
+*.pyc
+*.log
